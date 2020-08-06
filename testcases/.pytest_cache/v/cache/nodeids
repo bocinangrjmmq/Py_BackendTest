@@ -1,0 +1,4 @@
+[
+  "products_positive_test.py::test_create_product", 
+  "products_positive_test.py::test_verify_new_product_db"
+]
